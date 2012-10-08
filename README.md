@@ -1,4 +1,4 @@
 hifi
 ====
 
-Get better feedback.
+Get high-fidelity feedback from user emails.
